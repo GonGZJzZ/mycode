@@ -6,3 +6,6 @@ int main(){
 cout<<"hello world"<<endl;
 return 0;
 }
+
+%git is a distribution version control system;
+%which is convenient for software enginerr.
